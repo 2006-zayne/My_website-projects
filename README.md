@@ -1,2 +1,2 @@
-# My_website-projects
+# website
 My first Front-end development projects (Mainly WEBSITES)
